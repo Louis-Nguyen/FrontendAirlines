@@ -1,0 +1,11 @@
+.main{
+    background-image: url('http://localhost:8080/FlyAirlines/img/airlines3.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+.logo{
+    width: 216px !important;
+    height: 50px !important;
+}
+
